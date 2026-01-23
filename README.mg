@@ -38,4 +38,4 @@ I bring a unique perspective by combining **software engineering skills** with a
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- **LinkedIn:** https://www.linkedin.com/in/abdihakin-osman
