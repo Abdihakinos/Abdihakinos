@@ -23,7 +23,7 @@ I bring a unique perspective by combining **software engineering skills** with a
 ---
 
 ## 🎓 Education
-- **Bachelor’s Degree in Software Engineering** *(or current program)*  
+- **Bachelor’s Degree in Software Engineering** - Jigjiga University  
 - **BA in Public Administration & Development Management** — Jigjiga University  
   *Focus: Project Management, Leadership & Administration*
 
