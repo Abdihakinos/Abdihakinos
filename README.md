@@ -1,8 +1,13 @@
-# Hi, I’m Abdihakin Osman 
+# Hi, I’m Abdihakin Osman 👋
 
-Software Engineer with a strong foundation in web development and a growing passion for building clean, reliable, and user-focused software solutions. I learn by building, practicing consistently, and improving both technical and organizational thinking.
+Junior Software Engineer with a strong foundation in web development and a growing passion for building clean, reliable, and user-focused software solutions. I learn by building consistently and improving both technical and organizational thinking.
 
 I bring a unique perspective by combining **software engineering skills** with a background in **public administration, project management, and leadership**, allowing me to understand both technical implementation and management needs.
+
+---
+
+## 🔥 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdihakinos&theme=github-dark&hide_border=true)
 
 ---
 
@@ -23,14 +28,19 @@ I bring a unique perspective by combining **software engineering skills** with a
 ---
 
 ## 🎓 Education
-- **Bachelor’s Degree in Software Engineering** - Jigjiga University  
+- **Bachelor’s Degree in Software Engineering** *(or current program)*  
 - **BA in Public Administration & Development Management** — Jigjiga University  
   *Focus: Project Management, Leadership & Administration*
 
 ---
 
+## 🐍 Contribution Activity
+![Snake animation](https://raw.githubusercontent.com/Abdihakinos/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🧠 Strengths
-- Strong learning discipline and consistency  
+- Consistent learner with disciplined work habits  
 - Ability to connect technical solutions with organizational goals  
 - Clear communication and structured problem-solving  
 - Understanding of both **technology and management environments**
