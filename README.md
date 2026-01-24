@@ -1,6 +1,6 @@
-# Hi, I’m Abdihakin Osman 👋
+# Hi, I’m Abdihakin Osman 
 
-Junior Software Engineer with a strong foundation in web development and a growing passion for building clean, reliable, and user-focused software solutions. I learn by building, practicing consistently, and improving both technical and organizational thinking.
+Software Engineer with a strong foundation in web development and a growing passion for building clean, reliable, and user-focused software solutions. I learn by building, practicing consistently, and improving both technical and organizational thinking.
 
 I bring a unique perspective by combining **software engineering skills** with a background in **public administration, project management, and leadership**, allowing me to understand both technical implementation and management needs.
 
